@@ -1,0 +1,18 @@
+# User-specific files.
+**/workspace.xml
+**/tasks.xml
+**/usage.statistics.xml
+**/dictionaries
+**/shelf
+
+# Generated files.
+**/contentModel.xml
+
+# High-churn sensitive files.
+**/dataSources/
+**/dataSources.ids
+**/dataSources.local.xml
+**/sqlDataSources.xml
+**/dynamic.xml
+**/uiDesigner.xml
+**/dbnavigator.xml
